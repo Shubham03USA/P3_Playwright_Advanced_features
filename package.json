@@ -1,0 +1,21 @@
+{
+  "name": "p3_playwright_with_typescript_advanced_feature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.4.0",
+    "allure-playwright": "^3.11.1"
+  },
+  "dependencies": {
+    "csv-parse": "^7.0.2",
+    "json-parse": "^1.0.3",
+    "xlsx": "^0.18.5"
+  }
+}

@@ -1,0 +1,5 @@
+Login completed
+Test Name : Verify Product Count
+Status    : passed
+Logout completed
+Finished Test Execution

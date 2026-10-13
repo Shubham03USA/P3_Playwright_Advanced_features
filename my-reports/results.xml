@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="40.73688099999993">
+<testsuite name="POM\POM_TestFile.spec.ts" timestamp="2026-09-10T09:57:15.798Z" hostname="chromium" tests="3" failures="0" skipped="0" time="33.585" errors="0">
+<testcase name="Demoblaze Tests › User can sign up with a new account" classname="POM\POM_TestFile.spec.ts" time="6.797">
+</testcase>
+<testcase name="Demoblaze Tests › User can login, add a product to cart and verify it" classname="POM\POM_TestFile.spec.ts" time="13.782">
+</testcase>
+<testcase name="Demoblaze Tests › User can remove product from cart" classname="POM\POM_TestFile.spec.ts" time="13.006">
+</testcase>
+</testsuite>
+</testsuites>

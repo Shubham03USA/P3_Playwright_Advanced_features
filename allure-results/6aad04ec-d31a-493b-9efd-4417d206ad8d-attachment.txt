@@ -1,0 +1,6 @@
+Start Test Execution
+Login completed
+Test Name : Verify Shopping Cart Icon
+Status    : passed
+Logout completed
+Finished Test Execution
